@@ -72,7 +72,7 @@ public class RecordDisplay {
 // Day 1 Assignment 2 Java Code is provided down with the same given classname. I have made modifications to incorporate some features based on Assignment 2 questions. However, to run this program, we need to separately execute Assignment 2 and Assignment 1 so that we can obtain outputs independently according to the respective questions.
 // Using RecordDisplay Class
 
-/* package com.pengwin.palak.jdbc.day1;
+ package com.pengwin.palak.jdbc.day1;
 import java.sql.*;
 
 public class RecordDisplay {
@@ -144,4 +144,3 @@ public class RecordDisplay {
         recordDisplay.disconnect();
     }
 }
-*/
