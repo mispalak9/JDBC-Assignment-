@@ -11,8 +11,7 @@
 1. Learn about Type of Statement, ResultSet.
 	
 		
-2. Learn about SQL Transactions (transaction lock), Scrollable ResultSet and RowSets	0.75
-	Reference: https://www.geeksforgeeks.org/introduction-to-jdbc/	
+2. Learn about SQL Transactions (transaction lock), Scrollable ResultSet and RowSets	
 
 
 ==Topics Covered==Day3
