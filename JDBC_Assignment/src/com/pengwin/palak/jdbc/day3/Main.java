@@ -1,5 +1,5 @@
 // Day 2 Assignment 1 , Main class code for Execution
-/*
+
 package com.pengwin.palak.jdbc.day3;
 
 public class Main {
@@ -9,7 +9,7 @@ public class Main {
         displayer.displayEmpData(2); // Display using WebRowSet
     }
 }
-*/
+
 
 
 // Day 3 Assignment 1 , Main class code for Execution
