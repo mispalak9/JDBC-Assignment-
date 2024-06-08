@@ -1,6 +1,4 @@
 # jdbc-Assignment-
-A JDBC assignment has been assigned by the company, which uses Java, MySQL database, and JDBC connectivity.
-
 
 ==Topics Covered Day1==
 => understand the Basics of Java Database Connectivity (JDBC) Programming 
